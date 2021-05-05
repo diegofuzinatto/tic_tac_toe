@@ -2,4 +2,4 @@
 
 Project of a tic-tac-toe game 
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.jpg)
